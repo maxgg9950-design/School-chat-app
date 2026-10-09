@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SchoolChat" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/sc_accent</item>
+        <item name="colorPrimaryVariant">@color/sc_accent</item>
+        <item name="colorOnPrimary">@color/sc_text</item>
+        <item name="android:statusBarColor">@color/sc_bg</item>
+        <item name="android:navigationBarColor">@color/sc_bg</item>
+        <item name="android:windowBackground">@color/sc_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

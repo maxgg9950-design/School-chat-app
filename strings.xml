@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">School Chat</string>
+    <!-- Change this if your chat is hosted somewhere else -->
+    <string name="chat_url">https://text-world.nekoweb.org/chat.html</string>
+    <string name="allowed_host">text-world.nekoweb.org</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sc_bg">#1E1F22</color>
+    <color name="sc_accent">#5865F2</color>
+    <color name="sc_text">#FFFFFF</color>
+</resources>
